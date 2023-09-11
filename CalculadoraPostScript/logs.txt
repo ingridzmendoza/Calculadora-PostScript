@@ -1,0 +1,31 @@
+Imposible dividir por 0
+Imposible dividir por 0
+Imposible dividir por 0
+Imposible dividir por 0
+Imposible dividir por 0
+Imposible dividir por 0
+Imposible dividir por 0
+No hay suficientes operandos para efectuar la suma.
+null
+Imposible dividir por 0
+Imposible dividir por 0
+El resultado es null.
+El resultado es null.
+null
+null
+null
+Imposible dividir por 0
+Imposible dividir por 0
+Imposible dividir por 0
+Imposible dividir por 0
+No hay suficientes operandos para efectuar la suma.
+No hay suficientes operandos para efectuar la suma.
+null
+No hay suficientes operandos para efectuar la resta.
+No hay suficientes operandos para efectuar la multiplicacion.
+No hay suficientes operandos para efectuar la division.
+For input string: "true"
+null
+null
+No hay operando a duplicar
+null
